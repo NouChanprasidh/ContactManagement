@@ -1,4 +1,4 @@
-# Contact Manager Application
+# Contact Manager System
 
 The **Contact Manager** is a simple Python application designed to manage contacts in a PostgreSQL database using the `psycopg2` library for database interactions and the `PySimpleGUI` library for creating a graphical user interface (GUI). This application allows users to insert, delete, view, and search for contacts in the database.
 
@@ -23,7 +23,7 @@ The **Contact Manager** is a simple Python application designed to manage contac
 
 ## Features
 
-The Contact Manager application offers the following features:
+The Contact Manager System offers the following features:
 
 ### Insert Contact
 
